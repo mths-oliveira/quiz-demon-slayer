@@ -1,0 +1,80 @@
+{
+  "bg": "https://images2.alphacoders.com/101/thumb-1920-1011170.png",
+  "title": "Você conhece bem Demon Slayer?",
+  "description": "Um quiz rápido sobre o mundo de Demon Slayer",
+  "questions": [
+    {
+      "image": "https://pa1.narvii.com/7390/10a6ab0f36d8da8a10e950dba489ad9bcff63772r1-656-368_hq.gif",
+      "title": "Quantas formas tem a respiração da água?",
+      "answer": 1,
+      "alternatives": [
+        "Dez formas",
+        "Onze formas",
+        "Três formas",
+        "Sete formas"
+      ]
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/_MW08LozrHvIQGKZK2haWYHgzl2B4TGdSc9A0jCu_MJGzW6tBAVfbWkMzDSa9rTYbrg6kMiLyOL4IrRe3UO_UwUWYWNHXn96AmmXO5KtTnlrhYwfCRrYIsQaueyeajk",
+      "title": "Qual o nome da primeira forma da respiração do trovão?",
+      "answer": 3,
+      "alternatives": [
+        "Netsu kairai",
+        "Honoikazuchi no kami",
+        "Enrai",
+        "Hekireki Issen"
+      ]
+    },
+    {
+      "image": "http://images6.fanpop.com/image/photos/43400000/Inosuke-Hashibira-kimetsu-no-yaiba-43408746-300-169.gif",
+      "title": "A Respiração da Besta é Derivada de qual Respiração?",
+      "answer": 2,
+      "alternatives": ["Água", "Pedra", "Vento", "Trovão"]
+    },
+    {
+      "image": "https://data.whicdn.com/images/334202852/original.gif",
+      "title": "Quem é a Tsuguko da Shinobu Kocho?",
+      "answer": 3,
+      "alternatives": ["Nezuko", "Kanae", "Mitsuri", "Kanao"]
+    },
+    {
+      "image": "https://64.media.tumblr.com/954b720f4cb8aaf39c47bcc4726b102d/tumblr_pw30y8oudI1usc9y9o7_540.gifv",
+      "title": "Qual é o nome do Kekkijutsu da Nezuko?",
+      "answer": 0,
+      "alternatives": ["Bakketsu", "Mekakushi", "Wakuchi", "Kokushiro"]
+    },
+    {
+      "image": "https://img.wattpad.com/79869329254c9bd06849b0e0caacf141bb3fb3b3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f376a626d7271476f3479473941413d3d2d3933383332383536352e3136326331303631633461353230336635343232373331393834372e676966",
+      "title": "Quantos Hashiras são mostrados na primeira temporada?",
+      "answer": 1,
+      "alternatives": [
+        "Seis Hashiras",
+        "Nove Hashiras",
+        "Oito Hashiras",
+        "Sete Hashiras"
+      ]
+    },
+    {
+      "image": "http://pa1.narvii.com/7547/f47fb8c85d259cab7f4c11d6fb3b00432bbcfb71r1-540-228_00.gif",
+      "title": "Dos participantes da seleção final, Qual foi o único a sair sem nenhum tipo de ferimento?",
+      "answer": 0,
+      "alternatives": ["Kanao", "Inosuke", "Tanjiro", "Zenitsu"]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-inclusao.ewerton-augusto.vercel.app/",
+    "https://aluraquiz-base-git-main.julio-pereira.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#8825DDDD",
+      "secondary": "#DD2588DD",
+      "mainBg": "#FFFFFF",
+      "contrastText": "#414344",
+      "wrong": "#cc2424DD",
+      "success": "#77cc00DD"
+    },
+    "borderRadius": "6px"
+  }
+}
